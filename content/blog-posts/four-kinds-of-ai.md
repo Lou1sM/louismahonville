@@ -1,5 +1,5 @@
 ---
-title: 'Two Kinds of AI'
+title: 'Four Kinds of AI'
 date: '2007-08-03'
 ---
 
