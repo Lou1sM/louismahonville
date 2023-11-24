@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lou1sm.github.io/louismahonville/'
+relativeURLs = true
 languageCode = 'en-us'
 title = 'Ludawg'
