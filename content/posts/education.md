@@ -13,5 +13,5 @@ layout: staticpage
 
 - 2016, B.A. Maths and Philosophy, Trinity College Dublin (first-class honours)
  
-- 2014 B.A. Maths and Philosophy, Trinity College Dublin, Foundation Scholarship 
+- 2014 B.A. Maths and Philosophy, Trinity College Dublin, Non-Foundation Scholarship
 
