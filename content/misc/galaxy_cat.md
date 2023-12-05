@@ -1,7 +1,7 @@
 ---
 title: Galaxy Cat
 date: 2017-03-23
-publishdate: 2017-03-24
+publishdate: 2023-11-24
 ---
 
 
@@ -10,4 +10,3 @@ Perhaps the reason housecats are the most popular pet in the world today is that
 This barrelly little munchkin, Galaxy Cat, lies clumsily sideways, exposing its pudgy underbelly, while also carrying the mysteries of the universe on its back.
 
 {{<figure src="/croppedGalaxyCat.png" height="470px" width="470px" title="Galaxy Cat" caption="Drawing by Gillian Chan">}}
-
