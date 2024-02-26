@@ -6,7 +6,6 @@ layout: staticpage
 ---
 
 - Mahon, L., & Lukasiewicz, T. (2024). Minimum description length clustering to measure meaningful image complexity. Pattern Recognition, 145, 109889. <https://doi.org/10.1016/j.patcog.2023.109889>
-</br>
 
 - Mahon L. & Lukasiewicz T. (2024). Hard Regularization to Prevent Collapse in Online Deep Clustering without Data Augmentation, Association for the Advancement of Artificial Intelligence. 
 
