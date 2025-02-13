@@ -1,33 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Ludawg</title>
-    <link>http://localhost:1313/louismahonville/posts/</link>
-    <description>Recent content in Posts on Ludawg</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/louismahonville/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Education</title>
-      <link>http://localhost:1313/louismahonville/posts/education/</link>
-      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/louismahonville/posts/education/</guid>
-      <description>2019-2022, DPhil (PhD) in Computer Science, University of Oxford&#xA;2018-2019 MSc in Computer Science, University of Oxford (dist.)&#xA;2016-2017 MPhil Speech and Language Processing, Trinity College Dublin (dist.)&#xA;2016, B.A. Maths and Philosophy, Trinity College Dublin (first-class honours)&#xA;2014 B.A. Maths and Philosophy, Trinity College Dublin, Non-Foundation Scholarship</description>
-    </item>
-    <item>
-      <title>Selected Publications</title>
-      <link>http://localhost:1313/louismahonville/posts/publications/</link>
-      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/louismahonville/posts/publications/</guid>
-      <description>Mahon L., Lapata M. (2024). A Modular Approach for Multimodal Summarization of TV Shows. Proceedings of the Association for Computational Linguistics. https://doi.org/10.18653/v1/2024.acl-long.450&#xA;Mahon L., Abend O., Berger U., Demuth K., Johnson M., Steedman M. (2024) A language-agnostic model of child language acquisition. Computer, Speech and Language. https://doi.org/10.1016/j.csl.2024.101714&#xA;Mahon, L. (2024). Towards a Universal Method for Meaningful Signal Detection. Vocal Interactivity in-and-between Humans, Animals and Robots (Interspeech workshop). https://arxiv.org/pdf/2408.00016&#xA;Mahon, L.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/louismahonville/posts/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/louismahonville/posts/cv/</guid>
-      <description>View CV&#xA;Download CV </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Ludawg</title><link>https://lou1sm.github.io/louismahonville/posts/</link><description>Recent content in Posts on Ludawg</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://lou1sm.github.io/louismahonville/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Education</title><link>https://lou1sm.github.io/louismahonville/posts/education/</link><pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate><guid>https://lou1sm.github.io/louismahonville/posts/education/</guid><description>2019-2022, DPhil (PhD) in Computer Science, University of Oxford
+2018-2019 MSc in Computer Science, University of Oxford (dist.)
+2016-2017 MPhil Speech and Language Processing, Trinity College Dublin (dist.)
+2016, B.A. Maths and Philosophy, Trinity College Dublin (first-class honours)
+2014 B.A. Maths and Philosophy, Trinity College Dublin, Non-Foundation Scholarship</description></item><item><title>Selected Publications</title><link>https://lou1sm.github.io/louismahonville/posts/publications/</link><pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate><guid>https://lou1sm.github.io/louismahonville/posts/publications/</guid><description>Mahon L., Lapata M. (2024). A Modular Approach for Multimodal Summarization of TV Shows. Proceedings of the Association for Computational Linguistics. https://doi.org/10.18653/v1/2024.acl-long.450
+Mahon L., Abend O., Berger U., Demuth K., Johnson M., Steedman M. (2024) A language-agnostic model of child language acquisition. Computer, Speech and Language. https://doi.org/10.1016/j.csl.2024.101714
+Mahon, L. (2024). Towards a Universal Method for Meaningful Signal Detection. Vocal Interactivity in-and-between Humans, Animals and Robots (Interspeech workshop). https://arxiv.org/pdf/2408.00016
+Mahon, L.</description></item><item><title/><link>https://lou1sm.github.io/louismahonville/posts/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lou1sm.github.io/louismahonville/posts/cv/</guid><description>View CV
+Download CV</description></item></channel></rss>
