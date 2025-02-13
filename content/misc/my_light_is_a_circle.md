@@ -68,12 +68,12 @@ publishdate: 2022-06-01
 <p style="margin-bottom: 1cm"></p>
 {{< /rawhtml >}}
 
-Several years ago I read a collection of funny answers given in maths exams.
-I cannot remember the name of this collection, and cannot find it today, but one answer that always stuck with me was the following definition of a circle, "a circle is a line that joins its own end without ending". 
-At first, its memorability stemmed from how funny I found it, but later it came to mind in the context of spiritual development, and suddenly seemed disarmingly profound. 
-A pattern that plays out on many levels of inquiry is that what you thought was the end is in fact the beginning, and that the impetus that started the whole journey is also what you created by finishing ig. 
-The essential Buddhist project is to escape the suffering caused by the capricious and unreliable world of Samsara, but eventually this project leads back into the very thing it set out from. 
-Another example occurs in two of the great mysteries of life: where we did we come from and where are we going? Without knowing the answer to these, some part of me realizes that they are both the same question in a different form.
+A few years ago I read a collection of funny answers given in maths exams.
+I can't remember the name of this collection, or find it today, but one answer that always stuck with me was the following definition of a circle, "a circle is a line that joins its own end without ending". 
+At first, this was funny just because it was hilarious, but later it came to mind in the context of spiritual development, and suddenly seemed profound. 
+A pattern that plays out on many levels of inquiry is that what you thought was the end is in fact the beginning, and that the impetus that started the whole journey is also what you imparted when you finished it. 
+The essential Buddhist project is to escape the capricious and unreliable cycle of Samsara, but eventually this project leads back into the very thing it set out from. 
+Another example occurs in two of the great mysteries of life: where we did we come from and where are we going? Without knowing the answer to these, some part of me realizes that they are both sort of cancel each other out.
 
 A delf is an area that has been excavated or dug out, and represents something defined, manipulated, pentrated; the opposite of something pure and untouched. 
 
