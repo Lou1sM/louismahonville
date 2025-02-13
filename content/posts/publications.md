@@ -15,6 +15,8 @@ layout: staticpage
 
 - Mahon L. & Lukasiewicz T. (2024). Hard Regularization to Prevent Collapse in Online Deep Clustering without Data Augmentation, Association for the Advancement of Artificial Intelligence. 
 
+- Mahon L., Shah L & Lukasiewicz T. (2024). Correcting Flaws in Common Disentanglement Metrics, Transactions on Machine Learning Research. <https://openreview.net/forum?id=c8WJ4Vozb2>
+
 - Mahon, L., & Lukasiewicz, T. (2021). Selective pseudo-label clustering. KI Advances in Artificial Intelligence: 44th German Conference on AI. Springer International Publishing. <https://doi.org/10.1007/978-3-030-87626-5_12>
 
 - Mahon, L., Giunchiglia, E., Li, B., & Lukasiewicz, T. (2020). Knowledge graph extraction from videos. In 19th IEEE International Conference on Machine Learning and Applications (ICMLA). 25-32). IEEE. <https://doi.org/10.1109/ICMLA51294.2020.00014>

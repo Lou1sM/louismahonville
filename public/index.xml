@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Louis Mahon on Ludawg</title>
+    <link>http://localhost:1313/louismahonville/</link>
+    <description>Recent content in Louis Mahon on Ludawg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/louismahonville/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Light is a Circle</title>
+      <link>http://localhost:1313/louismahonville/misc/my_light_is_a_circle/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/louismahonville/misc/my_light_is_a_circle/</guid>
+      <description>My Light is a circle, complete in itself, It joins without ending, it ends without delf, And inside the circle, on which the light shines, ‘Round living and dying, the world intertwines. Its ripples and ruffles rejoin and divide, In numberless pieces, its masses collide. It takes many faces, it grows many eyes, Its voices in chorus extend to the skies. Though reaching for beauty, these voices are lost, Their hearts are divided, their purposes crossed.</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/louismahonville/posts/education/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/louismahonville/posts/education/</guid>
+      <description>2019-2022, DPhil (PhD) in Computer Science, University of Oxford&#xA;2018-2019 MSc in Computer Science, University of Oxford (dist.)&#xA;2016-2017 MPhil Speech and Language Processing, Trinity College Dublin (dist.)&#xA;2016, B.A. Maths and Philosophy, Trinity College Dublin (first-class honours)&#xA;2014 B.A. Maths and Philosophy, Trinity College Dublin, Non-Foundation Scholarship</description>
+    </item>
+    <item>
+      <title>Galaxy Cat</title>
+      <link>http://localhost:1313/louismahonville/misc/galaxy_cat/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/louismahonville/misc/galaxy_cat/</guid>
+      <description>Perhaps the reason housecats are the most popular pet in the world today is that they combine the grace and confidence of an apex predator with the frailty and softness of completely domesticated species. In that sense, they are opposite of humans&amp;ndash;we are, pragmatically, the most dominant apex predator in the planet&amp;rsquo;s history but still have the fear-based mindset of prey and scavengers. So, although we are drawn to cats partly from our caring instinct for a creature who needs our help, we are also allured by their poise and presence&amp;ndash;some part of us will always defer to them, and we can never shake the feeling that they have something or know something that we do not.</description>
+    </item>
+    <item>
+      <title>Selected Publications</title>
+      <link>http://localhost:1313/louismahonville/posts/publications/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/louismahonville/posts/publications/</guid>
+      <description>Mahon L., Lapata M. (2024). A Modular Approach for Multimodal Summarization of TV Shows. Proceedings of the Association for Computational Linguistics. https://doi.org/10.18653/v1/2024.acl-long.450&#xA;Mahon L., Abend O., Berger U., Demuth K., Johnson M., Steedman M. (2024) A language-agnostic model of child language acquisition. Computer, Speech and Language. https://doi.org/10.1016/j.csl.2024.101714&#xA;Mahon, L. (2024). Towards a Universal Method for Meaningful Signal Detection. Vocal Interactivity in-and-between Humans, Animals and Robots (Interspeech workshop). https://arxiv.org/pdf/2408.00016&#xA;Mahon, L.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/louismahonville/posts/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/louismahonville/posts/cv/</guid>
+      <description>View CV&#xA;Download CV </description>
+    </item>
+  </channel>
+</rss>
