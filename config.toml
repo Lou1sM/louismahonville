@@ -5,3 +5,5 @@ target = 'assets'
 [[module.mounts]]
 source = 'static'
 target = 'assets'
+
+homepage = 'home'

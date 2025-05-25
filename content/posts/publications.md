@@ -5,6 +5,8 @@ publishdate: 2017-03-24
 layout: staticpage
 ---
 
+- Mahon L., Johnson M, Steedman M. (2025). Modelling Child Learning and Parsing of Long-range Syntactic Dependencies. Cognition. (to appear)
+
 - Mahon L., Lapata M. (2024). A Modular Approach for Multimodal Summarization of TV Shows. Proceedings of the Association for Computational Linguistics. <https://doi.org/10.18653/v1/2024.acl-long.450>
 
 - Mahon L., Abend O., Berger U., Demuth K., Johnson M., Steedman M. (2024) A language-agnostic model of child language acquisition. Computer, Speech and Language. <https://doi.org/10.1016/j.csl.2024.101714>
